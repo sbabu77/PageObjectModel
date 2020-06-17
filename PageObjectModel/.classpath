@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/jxl-2.6.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/Jars/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/com.beust.jcommander.source_1.72.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/com.beust.jcommander_1.72.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/org.testng.eclipse.maven_6.14.3.201902250526.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.14.3.201902250526.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/org.testng.source_6.14.3.r201802240500.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/org.testng_6.14.3.r201802240500.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/org.yaml.snakeyaml.source_1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tsure/SOFTWARES/eclipse-java-2020-03-R-win32-x86_64/eclipse/plugins/org.yaml.snakeyaml_1.17.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
